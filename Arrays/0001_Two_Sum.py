@@ -1,6 +1,6 @@
 """
 LeetCode 1. Two Sum
-
+ARRAY HASHMAP
 Difficulty: Easy
 
 Topics:
